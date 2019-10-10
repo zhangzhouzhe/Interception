@@ -1,0 +1,9 @@
+D:\MyProject\Interception\Interception\bin\Debug\netcoreapp2.2\Interception.deps.json
+D:\MyProject\Interception\Interception\bin\Debug\netcoreapp2.2\Interception.dll
+D:\MyProject\Interception\Interception\bin\Debug\netcoreapp2.2\Interception.pdb
+D:\MyProject\Interception\Interception\obj\Debug\netcoreapp2.2\Interception.csprojAssemblyReference.cache
+D:\MyProject\Interception\Interception\obj\Debug\netcoreapp2.2\Interception.csproj.CoreCompileInputs.cache
+D:\MyProject\Interception\Interception\obj\Debug\netcoreapp2.2\Interception.AssemblyInfoInputs.cache
+D:\MyProject\Interception\Interception\obj\Debug\netcoreapp2.2\Interception.AssemblyInfo.cs
+D:\MyProject\Interception\Interception\obj\Debug\netcoreapp2.2\Interception.dll
+D:\MyProject\Interception\Interception\obj\Debug\netcoreapp2.2\Interception.pdb
